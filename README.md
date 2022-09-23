@@ -1,7 +1,7 @@
 ![](assets/logo.png)
 
 # Hooligan [ Work in Progress ]
-> ### Completely powered by Nmap and nCrack, Hooligan is a simple and easy to use tool that can be used to automate the process of brute forcing services. Hooligan uses the ShodanIO engine to search for hosts and then uses Nmap to scan them for open ports. Once the ports are found, Hooligan uses nCrack to brute force the services. 
+> ## Completely powered by Nmap and nCrack, Hooligan is a simple and easy to use tool that can be used to automate the process of brute forcing services. Hooligan uses the ShodanIO engine to search for hosts and then uses Nmap to scan them for open ports. Once the ports are found, Hooligan uses nCrack to brute force the services. 
 
 --
 ### Features
